@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.bloom",
+      "package_name": "com.wellnessz.bodyfystudio",
       "sha256_cert_fingerprints": [
-        "1E:D5:13:AA:AF:9C:1D:DF:43:3F:41:77:4B:DE:F7:58:29:AE:2D:C3:F7:93:58:A3:9C:43:4A:22:EA:FB:B2:E3"
+        "3D:83:65:C5:9E:78:FB:ED:B6:C3:3A:A5:4C:FA:FB:6C:CB:0F:38:23:3E:A8:C7:22:42:33:A9:93:61:B1:CC:70"
       ]
     }
   }
